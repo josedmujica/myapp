@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ul {
+  list-style-image: url('src/assets/itemlist.png');
+}
